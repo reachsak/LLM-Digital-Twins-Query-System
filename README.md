@@ -49,9 +49,6 @@ To replicate or extend this project, you will need:
 
 ### Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/TwinGPT.git
-   cd TwinGPT
+
 
 
